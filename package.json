@@ -4,7 +4,7 @@
   "description": "A package for exercise katas",
   "main": "index.js",
   "scripts": {
-    "test": "jest --watch"
+    "test": "jest --watchAll"
   },
   "repository": {
     "type": "git",
